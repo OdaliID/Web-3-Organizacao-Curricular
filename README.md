@@ -1,7 +1,5 @@
 # Web-3-Organizacao-Curricular
 
-# Web3
-
 •	Foi criada uma const para alterar o estado do “cursos”
  
 ![image](https://user-images.githubusercontent.com/85572804/205674534-448946df-df05-41ad-bd7f-f8d657ee5eaf.png)
