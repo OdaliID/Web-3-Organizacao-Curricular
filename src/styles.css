@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cabecalho {
+  padding-bottom: 10px;
+  border-bottom: 4px solid black;
+}
+
+.marca {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: separate;
+  width: 600px;
+  text-align: center;
+}
+
+tr.linha {
+  background-color: rgb(1, 116, 116);
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
